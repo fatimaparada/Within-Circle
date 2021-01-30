@@ -1,7 +1,6 @@
 
 /*
 Author: Fatima Parada-Taboada
-Net id: fnp170130
 Program overview: This program will determine whether a point chosen by the user is within the radius of a circle.
 */ 
 
